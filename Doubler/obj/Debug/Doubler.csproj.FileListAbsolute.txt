@@ -1,0 +1,12 @@
+D:\Denchik\VS\Homework7\Doubler\bin\Debug\Doubler.exe.config
+D:\Denchik\VS\Homework7\Doubler\bin\Debug\Doubler.exe
+D:\Denchik\VS\Homework7\Doubler\bin\Debug\Doubler.pdb
+D:\Denchik\VS\Homework7\Doubler\obj\Debug\Doubler.csproj.AssemblyReference.cache
+D:\Denchik\VS\Homework7\Doubler\obj\Debug\Doubler.csproj.SuggestedBindingRedirects.cache
+D:\Denchik\VS\Homework7\Doubler\obj\Debug\Doubler.Form1.resources
+D:\Denchik\VS\Homework7\Doubler\obj\Debug\Doubler.Properties.Resources.resources
+D:\Denchik\VS\Homework7\Doubler\obj\Debug\Doubler.csproj.GenerateResource.cache
+D:\Denchik\VS\Homework7\Doubler\obj\Debug\Doubler.csproj.CoreCompileInputs.cache
+D:\Denchik\VS\Homework7\Doubler\obj\Debug\Doubler.exe
+D:\Denchik\VS\Homework7\Doubler\obj\Debug\Doubler.pdb
+D:\Denchik\VS\Homework7\Doubler\obj\Debug\Doubler.Form2.resources
